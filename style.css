@@ -1,0 +1,12 @@
+.nav ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+.nav{
+    background-color: red;
+}
+.nav a{
+    color: white;
+    text-decoration: none;
+}
